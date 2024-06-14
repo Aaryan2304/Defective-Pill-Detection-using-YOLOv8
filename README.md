@@ -4,7 +4,7 @@
 
 **Selected Pre-trained Model : YoLo V8 nano** <br>
 
-**Dataset : https://docs.ultralytics.com/#yolo-licenses-how-is-ultralytics-yolo-licensed** <br>
+**Dataset : (https://universe.roboflow.com/pill-defect-detection/defective-pill-classifier)** <br>
 
 ## Steps :
 1) A pretrained model that is recommended for training was loaded -YOLOV8n.pt
