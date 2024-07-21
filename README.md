@@ -23,3 +23,7 @@
 2) Integration and Compatibility in Software Development: The use of Android Studio Jellyfish proved beneficial for its stability and robust features, enabling smooth integration of the YOLOv8 model into an Android application. This highlights how advanced IDEs can support complex functionalities like real-time image processing and ensure compatibility with the latest operating system updates.
 
 3) Use of Jetson Nano would have increased the processing power.
+
+## Result :
+![WhatsApp Image 2024-07-21 at 14 00 50_dae00b4c](https://github.com/user-attachments/assets/79e85a24-05d1-4d1c-a4f3-12177a9c647a)
+![WhatsApp Image 2024-07-21 at 14 00 50_c4eed687](https://github.com/user-attachments/assets/577f270f-26ea-4066-87f3-0ba9871f5f88)
